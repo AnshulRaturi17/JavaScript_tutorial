@@ -1,2 +1,2 @@
 # JavaScript_tutorial
-javascript b chai aur code
+javascript by chai aur code
